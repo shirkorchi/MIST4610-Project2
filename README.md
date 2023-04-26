@@ -11,17 +11,8 @@
 This data was pulled from the US Energy Administration and joined together for an easier analysis. It is a collection of major factors that play into C02 emissions, from the Production and Consumption of each type of major energy source for each country to its pollution rating each year. It also includes each countries GDP, Population, Energy intensity per capita (person), and Energy intensity per GDP (per person GDP). All the data spans all the way from the 1980's through 2019.
 
 Feature Descriptions and Data Types:
+<img width="505" alt="Screenshot 2023-04-26 at 12 10 56 PM" src="https://user-images.githubusercontent.com/128431687/234636495-5379ab60-ff72-407b-b3f7-d607b5d895da.png">
 
-Country: Country in question (String)
-Energy_type: Type of energy source (String)
-Year: Year the data was recorded (DATE)
-Energy_consumption: Amount of Consumption for the specific energy source, measured (quad Btu = 10¹⁵ British thermal unit) (Decimal)
-Energy_production: Amount of Production for the specific energy source, measured (quad Btu) (Decimal)
-GDP: Countries GDP at purchasing power parities, measured (Billion 2015$ PPP) (Decimal)
-Population: Population of specific Country, measured (Mperson) (Decimal)
-Energy_intensity_per_capita: Energy intensity is a measure of the energy inefficiency of an economy (MMBtu/person) (Decimal)
-Energy_intensity_by_GDP: Energy intensity is a measure of the energy inefficiency of an economy (1000 Btu/2015$ GDP PPP) (Decimal)
-CO2_emission: The amount of C02 emitted, measured (MMtonnes CO2) (Decimal)
 
 # Question 1
 People have employed several approaches to curbing CO2 emissions, ranging from policy changes and regulations to technological advancements and behavioral changes. In 2019, Prince Harry and Meghan Markle announced they would limit their family size to two children, citing environmental reasons. This led people to question if family planning is an effective solution to reducing CO2 emissions. Population growth has been linked to increased CO2 emisssions as increased demand for resources, including energy, food, and transportation, which all contribute to greenhouse gas emissions. However, it is important to note that the correlation between population and CO2 emissions is not straightforward, as other factors such as economic development contribute to CO2 emissions. Economic growth is often accompanied by increased energy demand for transportation, manufacturing, construction, and other sectors, resulting in increased CO2 emissions. This prompted us to ask the question:
