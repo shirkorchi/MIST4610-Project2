@@ -22,6 +22,9 @@ People have employed several approaches to curbing CO2 emissions, ranging from p
 Is there a stronger correlation between CO2 emissions and GDP or CO2 emissions and population?
 
 # Question 1 Analysis and Report
+![image](https://user-images.githubusercontent.com/128431687/234630675-b5529859-0cf6-4263-9242-9cd57e9bc065.png)
+
+For the top two graphs, we examined the top five countries with the highest CO2 emissions overall (China, US, India, Russia, and Japan). In doing so, the data points are more visible and eliminate less significant countries that could possibly skew the data.
 For the top two graphs, we examined the top five countries with the highest CO2 emissions overall (China, US, India, Russia, and Japan). In doing so, the data points are more visible and eliminate less significant countries that could possibly skew the data.
 
 Looking at the visualization between Energy Intensity by GDP vs Energy Intensity per capita, we observed both measures following similar trends year to year with the exception of China. After 2013, China's Energy Intensity by GDP decreases while its Energy Intensity per capita continues to increase. Upon further research, we found this was a result of China's energy restructuring to increase production from its statewide power generators and reduce its reliance on coal. With the other countries' Energy Intensity by GDP and Energy Intensity per capita following parallel trends, the graph reaffirms our hypothesis that GDP and population are contributing factors towards CO2 emissions.
@@ -36,6 +39,9 @@ The Paris Climate Agreement is a global treaty that was adopted in 2015 by 196 c
 How effective has the Paris Climate Agreement been in reducing CO2 emissions?
 
 # Question 2 Analysis and Report
+![image](https://user-images.githubusercontent.com/128431687/234630624-6cda92e5-d9de-40b3-b7ee-7d0ae8f60b25.png)
+
+Visualizing CO2 emissions worldwide, CO2 levels did decline in the two years after the agreement's inception from 2015 to 2017. However, CO2 emissions reached a record high after 2017 and from the dataset we can see they continue to increase through 2019. The International Energy Agency (IEA) accounted two-thirds of the global emissions increase to Asian countries, particularly China.
 Visualizing CO2 emissions worldwide, CO2 levels did decline in the two years after the agreement's inception from 2015 to 2017. However, CO2 emissions reached a record high after 2017 and from the dataset we can see they continue to increase through 2019. The International Energy Agency (IEA) accounted two-thirds of the global emissions increase to Asian countries, particularly China.
 
 A Climate Action Tracker (CAT) report found that all G20 countries were failing to meet the commitment made in the Paris Agreement and several countries' pledges were highly insufficient in reducing CO2 emissions at a significant level. Four G20 countries (Britain, United States, Mexico and Japan) did experience declines in their CO2 emissions during 2017 but they are far outweighed by the increases in emissions from China and Russia.
