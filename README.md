@@ -10,7 +10,6 @@
 # Data Set
 This data was pulled from the US Energy Administration and joined together for an easier analysis. It is a collection of major factors that play into C02 emissions, from the Production and Consumption of each type of major energy source for each country to its pollution rating each year. It also includes each countries GDP, Population, Energy intensity per capita (person), and Energy intensity per GDP (per person GDP). All the data spans all the way from the 1980's through 2019.
 
-Feature Descriptions and Data Types:
 <img width="505" alt="Screenshot 2023-04-26 at 12 10 56 PM" src="https://user-images.githubusercontent.com/128431687/234636495-5379ab60-ff72-407b-b3f7-d607b5d895da.png">
 
 
